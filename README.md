@@ -11,7 +11,8 @@ I am currently on a journey to master Python programming by completing daily cha
 | 01 | Introduction | ✅ |
 | 02 | Variables & Built-in Functions | ✅ |
 | 03 | Operators | ✅ |
-| 04 | Strings | ⏳ |
+| 04 | Strings | ✅ |
+| 05 | Control Flow | ⏳ |
 
 ## Tools I'm Using
 * **Language:** Python 3
