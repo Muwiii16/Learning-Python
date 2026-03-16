@@ -1,0 +1,5 @@
+user_age = int(input("How old are you?: "))
+friends_age = int(input("How old is your friend?: "))
+
+print(user_age > friends_age)
+print(user_age == 18)
