@@ -22,3 +22,9 @@ height = (float(input("Enter the height of the triangle: ")))
 
 area = 0.5*base*height
 print("The area of the triangle is: ", area)
+
+x1, y1 = 2, 2
+x2, y2 = 6, 10
+
+slope = (y2-y1)/(x2-x1)
+print("Th eslope is: ", slope)
