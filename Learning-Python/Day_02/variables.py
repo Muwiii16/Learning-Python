@@ -1,0 +1,30 @@
+name = input("What is your name? ")
+age = input("How old are you? ")
+
+print("Hello, " + name + "! You are " + age + " years old.")
+
+
+first_name = ("Luigi")
+last_name = ("Gonzales")
+country = ("Philippines")
+city = ("Batangas")
+
+print(first_name)
+print(last_name)
+print(country)
+print(city)
+
+print(len(first_name))
+
+
+base = (float(input("Enter the base of the triangle: ")))
+height = (float(input("Enter the height of the triangle: ")))
+
+area = 0.5*base*height
+print("The area of the triangle is: ", area)
+
+x1, y1 = 2, 2
+x2, y2 = 6, 10
+
+slope = (y2-y1)/(x2-x1)
+print("Th eslope is: ", slope)
