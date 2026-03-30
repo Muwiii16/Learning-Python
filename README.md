@@ -12,7 +12,9 @@ I am currently on a journey to master Python programming by completing daily cha
 | 02 | Variables & Built-in Functions | ✅ |
 | 03 | Operators | ✅ |
 | 04 | Strings | ✅ |
-| 05 | Control Flow | ⏳ |
+| 05 | Control Flow | ✅ |
+| 06 | Lists & Data Collections | ✅ |
+| 07 | Dictionaries & Sets | ⏳ |
 
 ## Tools I'm Using
 * **Language:** Python 3
